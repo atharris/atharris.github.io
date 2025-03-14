@@ -1,0 +1,1 @@
+This is an MIT-licensed blog for myself. Thanks!
